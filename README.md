@@ -35,8 +35,12 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 
 ## Skills
 - **Programming Languages:** Python, C++, Java, SQL, R
-- **Development Tools:** Visual Studio, Visual Studio Code, Jetbrains Intellij IDEA, Git/GitHub, R Studio, SQL Server Management Studio
-- **APIs:** RESTful API, MySQL
+- **Integrated Development Environments (IDEs):** Visual Studio, Visual Studio Code, Jetbrains Intellij IDEA, PyCharm, Git/GitHub, R Studio, SQL Server Management Studio
+- **Version Control:** Git/GitHub
+- **Data Tools:** SQL Server Management Studio, R Studio, Jupyter
+- **Frameworks:** FastAPI
+- **Database Systems:** MySQL, SQL Server
+- **APIs:** RESTful API
 - **Miscellaneous:** B2 Level English Certification (University of Michigan), B-class driver’s license
 
 ## Certifications
