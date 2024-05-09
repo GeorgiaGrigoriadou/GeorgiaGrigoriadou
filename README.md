@@ -34,7 +34,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 - Negotiations with suppliers.
 
 ## Skills
-- **Programming Languages:** C++, Java, SQL, Python, R
+- **Programming Languages:** Python, C++, Java, SQL, R
 - **Development Tools:** Visual Studio, Visual Studio Code, Jetbrains Intellij IDEA, Git/GitHub, R Studio, SQL Server Management Studio
 - **APIs:** RESTful API, MySQL
 - **Miscellaneous:** B2 Level English Certification (University of Michigan), B-class driver’s license
