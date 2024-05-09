@@ -47,9 +47,6 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 ## Certifications
 - B2 Level English Certification (Certificate of Competency, University of Michigan)
 
-## License
-This repository and its contents are licensed under the [MIT License](LICENSE).
-
 ## Connect
 Feel free to reach out to me via email or connect with me on LinkedIn!
 
