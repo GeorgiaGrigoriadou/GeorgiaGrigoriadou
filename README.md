@@ -24,7 +24,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 - Utilizing Pyplot for data visualization.
 - Implementing machine learning models to derive actionable insights from complex datasets.
 - Providing strategic recommendations to enhance decision-making processes.
-
+<!--
 ### Kiosk Employee
 **Employer:** Mavrokefalidou Anna  
 **Duration:** August 2016 - February 2024
@@ -32,6 +32,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 - Customer service handling.
 - Effective communication skills.
 - Negotiations with suppliers.
+-->
 
 ## Skills
 - **Programming Languages:** Python, C++, Java, SQL, R
