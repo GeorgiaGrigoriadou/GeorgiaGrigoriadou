@@ -2,7 +2,6 @@
 
 # Georgia Grigoriadou 
 
-## Introduction
 Welcome to my GitHub repository! This repository serves as a showcase of my experience, education, and skills. Here you'll find details about my work history, educational background, and proficiency in various programming languages and tools.
 
 ## Contact Information
