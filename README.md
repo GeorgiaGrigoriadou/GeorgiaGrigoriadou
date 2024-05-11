@@ -1,53 +1,37 @@
-### Hi there 👋
-
-# Georgia Grigoriadou 
-
-Welcome to my GitHub repository! This repository serves as a showcase of my experience, education, and skills. Here you'll find details about my work history, educational background, and proficiency in various programming languages and tools.
-
-## Contact Information
-- **Name:** Georgia Grigoriadou
-- **Location:** Aigaleo, Greece
-- **Email:** georgiagrigoriadou0@gmail.com
-- **LinkedIn:** [GeorgiaGrigoriadou](https://www.linkedin.com/in/georgia-grigoriadou/)
+## 👋 Hi, I’m Georgia Grigoriadou
 
 ## Education
 - **Bachelor of Science (B.Sc.) in Computer Science**
   - Athens University of Economics and Business, School of Information Science and Technology
-<!--
-## Work Experience
-### Data Scientist Intern
-**Company:** Grant Thornton B.S  
-**Duration:** March 2024 - Current
 
-- Leveraging Python libraries such as Pandas for data manipulation and analysis.
-- Utilizing Pyplot for data visualization.
-- Implementing machine learning models to derive actionable insights from complex datasets.
-- Providing strategic recommendations to enhance decision-making processes.
+## ℹ️ A little info about me
+- #### <img title="Location" alt="Location" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Location: Aigaleo, Greece
+- #### <img title="Email" alt="Email" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> [georgiagrigoriadou0@gmail.com](mailto:georgiagrigoriadou0@gmail.com)
 
-### Kiosk Employee
-**Employer:** Mavrokefalidou Anna  
-**Duration:** August 2016 - February 2024
+## ⌨ Programming Languages
+<div align='center'>
+   <img title="Java" alt="Java" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"> 
+   <img title="Python" alt="Python" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"> 
+   <img title="SQL" alt="SQL" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
+   <img title="C++" alt="C++" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"> 
+</div>
 
-- Customer service handling.
-- Effective communication skills.
-- Negotiations with suppliers.
--->
+## 👨🏻‍💻 Software Tools
+<div align='center'>
+   <img title="Git" alt="Git" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/8695/8695385.png">
+   <img title="Github" alt="Github" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png">
+   <img title="Microsoft Visual Studio" alt="Microsoft Visual Studio" style="width:40px; height:40px;" src="https://cdn-icons-png.flaticon.com/128/906/906324.png"> 
+   <img title="VSCode" alt="VSCode" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/270/270798.png">
+   <img title="Jupyter" alt="Jupyter" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/1051/1051319.png">
+</div>
 
-## Skills
-- **Programming Languages:** Python, C++, Java, SQL, R
-- **Integrated Development Environments (IDEs):** Visual Studio, Visual Studio Code, Jetbrains Intellij IDEA, PyCharm, Git/GitHub, R Studio, SQL Server Management Studio
-- **Version Control:** Git/GitHub
-- **Data Tools:** SQL Server Management Studio, R Studio, Jupyter
-- **Frameworks:** FastAPI
-- **Database Systems:** MySQL, SQL Server
-- **APIs:** RESTful API
-- **Miscellaneous:** B2 Level English Certification (University of Michigan), B-class driver’s license
-<!--
-## Certifications
-- B2 Level English Certification (Certificate of Competency, University of Michigan)
--->
-## Connect
-Feel free to reach out to me via email or connect with me on LinkedIn!
+
+
+
+## 🌐 How to reach me
+<div align='center'>
+    <a href='https://www.linkedin.com/in/georgia-grigoriadou/'><img title="LinkedIn" alt="LinkedIn" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"></a>
+</div>
 
 
 <!--
