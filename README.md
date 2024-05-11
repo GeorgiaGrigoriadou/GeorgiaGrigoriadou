@@ -10,6 +10,8 @@
 
 ## ℹ️ A little info about me
 - #### <img title="Email" alt="Email" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> [georgiagrigoriadou0@gmail.com](mailto:georgiagrigoriadou0@gmail.com)
+-  ### <a href='https://www.linkedin.com/in/georgia-grigoriadou/'><img title="LinkedIn" alt="LinkedIn" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"></a>
+
 
 ## ⌨ Programming Languages
 <div align='center'>
@@ -32,11 +34,6 @@
    <img title="Jupyter" alt="Jupyter" style="width:40px;height:40px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
 </div>
 
-
-## 🌐 How to reach me
-<div align='center'>
-    <a href='https://www.linkedin.com/in/georgia-grigoriadou/'><img title="LinkedIn" alt="LinkedIn" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"></a>
-</div>
 
 
 <!--
