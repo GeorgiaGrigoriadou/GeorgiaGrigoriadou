@@ -34,6 +34,9 @@
    <img title="Jupyter" alt="Jupyter" style="width:40px;height:40px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
 </div>
 
+## ⌨️ Languages
+   > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiaGrigoriadou&layout=compact&theme=algolia&border_radius=20&text_color=9ECCE3&bg_color=1e1e2e)
+
 
 
 <!--
