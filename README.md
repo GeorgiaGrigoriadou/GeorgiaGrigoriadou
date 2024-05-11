@@ -13,7 +13,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 ## Education
 - **Bachelor of Science (B.Sc.) in Computer Science**
   - Athens University of Economics and Business, School of Information Science and Technology
-
+<!--
 ## Work Experience
 ### Data Scientist Intern
 **Company:** Grant Thornton B.S  
@@ -23,7 +23,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 - Utilizing Pyplot for data visualization.
 - Implementing machine learning models to derive actionable insights from complex datasets.
 - Providing strategic recommendations to enhance decision-making processes.
-<!--
+
 ### Kiosk Employee
 **Employer:** Mavrokefalidou Anna  
 **Duration:** August 2016 - February 2024
@@ -42,10 +42,10 @@ Welcome to my GitHub repository! This repository serves as a showcase of my expe
 - **Database Systems:** MySQL, SQL Server
 - **APIs:** RESTful API
 - **Miscellaneous:** B2 Level English Certification (University of Michigan), B-class driver’s license
-
+<!--
 ## Certifications
 - B2 Level English Certification (Certificate of Competency, University of Michigan)
-
+-->
 ## Connect
 Feel free to reach out to me via email or connect with me on LinkedIn!
 
