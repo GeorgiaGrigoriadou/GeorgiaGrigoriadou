@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" height="400rem" src="https://quotefancy.com/media/wallpaper/3840x2160/6360638-Albert-Einstein-Quote-You-never-fail-until-you-stop-trying.jpg">
+</p>
+
 ## 👋 Hi, I’m Georgia Grigoriadou
 
 ## Education
