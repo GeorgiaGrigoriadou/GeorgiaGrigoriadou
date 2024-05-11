@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m Georgia Grigoriadou
 
 ## Education
-- **Bachelor of Science (B.Sc.) in Computer Science**
+- #### <img title="Education" alt="Education" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Bachelor of Science (B.Sc.) in Computer Science
   - Athens University of Economics and Business, School of Information Science and Technology
 
 ## ℹ️ A little info about me
-- #### <img title="Location" alt="Location" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Location: Aigaleo, Greece
 - #### <img title="Email" alt="Email" style="width:25px;height:25px;" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> [georgiagrigoriadou0@gmail.com](mailto:georgiagrigoriadou0@gmail.com)
 
 ## ⌨ Programming Languages
@@ -16,16 +15,18 @@
    <img title="C++" alt="C++" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"> 
 </div>
 
-## 👨🏻‍💻 Software Tools
+## 👨🏻‍💻 Software Tools & Technologies
 <div align='center'>
    <img title="Git" alt="Git" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/8695/8695385.png">
    <img title="Github" alt="Github" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png">
+   <img title="RESTful API" alt="RESTful API" style="width:40px;height:40px;" src="https://toppng.com/uploads/preview/rest-api-icon-rest-api-icon-11553510526uqs2ynyga2.png">
+   <img title="FastAPI" alt="FastAPI" style="width:40px;height:40px;" src="https://diagrams.mingrammer.com/img/resources/programming/framework/fastapi.png">
+  <img title="MySQL" alt="MySQL" style="width:40px;height:40px;" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo-thumbnail.png">
+   <img title="Intellij" alt="Intellij" style="width:40px;height:40px;" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png">
    <img title="Microsoft Visual Studio" alt="Microsoft Visual Studio" style="width:40px; height:40px;" src="https://cdn-icons-png.flaticon.com/128/906/906324.png"> 
-   <img title="VSCode" alt="VSCode" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/270/270798.png">
-   <img title="Jupyter" alt="Jupyter" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/1051/1051319.png">
+   <img title="VSCode" alt="VSCode" style="width:40px;height:40px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+   <img title="Jupyter" alt="Jupyter" style="width:40px;height:40px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
 </div>
-
-
 
 
 ## 🌐 How to reach me
