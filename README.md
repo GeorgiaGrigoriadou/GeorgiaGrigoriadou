@@ -5,7 +5,7 @@
 ## 👋 Hi, I’m Georgia Grigoriadou
 
 ## Education
-- #### <img title="Education" alt="Education" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> Bachelor of Science (B.Sc.) in Computer Science
+- #### <img title="Education" alt="Education" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> B.Sc. in Computer Science
   - Athens University of Economics and Business, School of Information Science and Technology
 
 ## ℹ️ A little info about me
