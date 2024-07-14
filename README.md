@@ -2,7 +2,7 @@
   <img width="100%" height="400rem" src="https://quotefancy.com/media/wallpaper/3840x2160/6360638-Albert-Einstein-Quote-You-never-fail-until-you-stop-trying.jpg">
 </p>
 
-## 👋 Hi, I’m Georgia Grigoriadou
+## 👋 Hi, I’m Georgia
 
 ## Education
 - #### <img title="Education" alt="Education" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> B.Sc. in Computer Science
