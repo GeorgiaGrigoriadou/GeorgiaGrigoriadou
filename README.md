@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I’m Georgia
 
-<h3 align="center">I am a graduate of the Computer Science Department at the Athens University of Economics and Business, currently completing my internship as a Backend Software Developer at Grant Thornton. I am passionate about programming and always eager to learn new technologies. At present, I am focusing on Spring Boot</h3>
+<h3 align="center">I am a graduate of the Computer Science Department at the Athens University of Economics and Business, currently completing my internship as a Backend Software Developer at Grant Thornton. I am passionate about programming and always eager to learn new technologies. At present, I am focusing on Spring Boot.</h3>
 
     
  ---
