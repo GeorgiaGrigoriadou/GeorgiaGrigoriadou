@@ -1,16 +1,15 @@
 <p align="center">
-  <img width="70%" height="300" src="https://quotefancy.com/media/wallpaper/3840x2160/6360638-Albert-Einstein-Quote-You-never-fail-until-you-stop-trying.jpg">
+  <img width="100%" height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/6360638-Albert-Einstein-Quote-You-never-fail-until-you-stop-trying.jpg">
 </p>
 
-### 👋 Hi, I’m Georgia
+## 👋 Hi, I’m Georgia
 
-### Education
-#### <img title="Education" alt="Education" style="width:25px;height:25px" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png"> B.Sc. in Computer Science
-  - Athens University of Economics and Business, School of Information Science and Technology
+<h3 align="center">I am a graduate of the Computer Science Department at the Athens University of Economics and Business, currently completing my internship as a Backend Software Developer at Grant Thornton. I am passionate about programming and always eager to learn new technologies. At present, I am focusing on Spring Boot</h3>
+
     
  ---
 
-### A little info about me
+### Connect with me 
 <p>
   <a href="https://www.linkedin.com/in/georgia-grigoriadou/">
   <img title="LinkedIn" alt="LinkedIn" style="width:40px;height:40px; vertical-align:middle;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
