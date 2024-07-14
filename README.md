@@ -15,23 +15,27 @@
 
 ## ⌨ Programming Languages
 <div align='center'>
-   <img title="Java" alt="Java" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"> 
-   <img title="Python" alt="Python" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"> 
-   <img title="SQL" alt="SQL" style="width:40px;height:40px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
-   <img title="C++" alt="C++" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
 </div>
+
+
 
 ## 👨🏻‍💻 Software Tools & Technologies
 <div align='center'>
-   <img title="Git" alt="Git" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/8695/8695385.png">
-   <img title="Github" alt="Github" style="width:40px;height:40px;" src="https://cdn-icons-png.flaticon.com/128/11104/11104255.png">
-   <img title="RESTful API" alt="RESTful API" style="width:40px;height:40px;" src="https://toppng.com/uploads/preview/rest-api-icon-rest-api-icon-11553510526uqs2ynyga2.png">
-   <img title="FastAPI" alt="FastAPI" style="width:40px;height:40px;" src="https://diagrams.mingrammer.com/img/resources/programming/framework/fastapi.png">
-  <img title="MySQL" alt="MySQL" style="width:40px;height:40px;" src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo-thumbnail.png">
-   <img title="Intellij" alt="Intellij" style="width:40px;height:40px;" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png">
-   <img title="Microsoft Visual Studio" alt="Microsoft Visual Studio" style="width:40px; height:40px;" src="https://cdn-icons-png.flaticon.com/128/906/906324.png"> 
-   <img title="VSCode" alt="VSCode" style="width:40px;height:40px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-   <img title="Jupyter" alt="Jupyter" style="width:40px;height:40px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
+  <img src="https://media.licdn.com/dms/image/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/0/1687786979245?e=2147483647&v=beta&t=AVc2G-hvHNjTMklQtEt6qlby2l79Bf5dBBkUB5DBRe0" title="REST API" alt="REST API" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original-wordmark.svg" title="Liquibase" alt="Liquibase" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>&nbsp;
 </div>
 
 ## ⌨️ Languages
