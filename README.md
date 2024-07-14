@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="400rem" src="https://quotefancy.com/media/wallpaper/3840x2160/6360638-Albert-Einstein-Quote-You-never-fail-until-you-stop-trying.jpg">
+  <img width="70%" height="300" src="https://quotefancy.com/media/wallpaper/3840x2160/6360638-Albert-Einstein-Quote-You-never-fail-until-you-stop-trying.jpg">
 </p>
 
 ### 👋 Hi, I’m Georgia
@@ -24,7 +24,7 @@
 ---
 
 <div align='center'>
-   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" title="Skills" alt="Skills" width="70" height="70"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" title="Skills" alt="Skills" width="60" height="60"/>&nbsp;
 </div>
 
 
