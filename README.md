@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I’m Georgia
 
-<h3 align="center">I am a graduate of the Computer Science Department at the Athens University of Economics and Business, currently working as a Software Engineer at Grant Thornton. I am passionate about programming and continuously eager to learn new technologies. At present, I am focusing on Spring Boot.</h3>
+<h3 align="center">I’m a Backend Developer passionate about building robust web applications with Java Spring Boot and PostgreSQL. I focus on creating efficient RESTful APIs, integrating BPMN workflows, and ensuring reliable data management with JPA/Hibernate. I enjoy learning new technologies and improving my skills continuously.</h3>
 
     
  ---
